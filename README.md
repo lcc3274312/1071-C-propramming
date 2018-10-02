@@ -3,5 +3,10 @@
 *temperatature.cpp
 *walcome.cpp
 *平方根.cpp
+
 *week 2
-*閏年.cpp
+*閏年的.cpp
+*計時器。cpp
+
+*第3週
+*BMI.cpp
